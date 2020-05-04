@@ -82,6 +82,9 @@
   section {
     padding: 1em 0;
   }
+  .first-section{
+    padding-top: 0;
+  }
   p {
     margin: 0 0 1em;
     line-height: 1.4285em;
